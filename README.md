@@ -2,13 +2,14 @@
 
 Patient-Level Analysis of Single Cell Disease Atlas with Optimal Transport of Gaussian Mixtures Variational Autoencoders.
 
-```bash
+```terminal
 
 git clone https://github.com/mehdijoodaki/PILOT-GM-VAE.git
 
 cd PILOT-GM-VAE
 
 pip install .
+```
 
 # Navigate to Tutorial.
 
